@@ -5,3 +5,11 @@
 #title-new {
     color: greenyellow;
 }
+
+.text {
+    color: indigo;
+}
+
+.big {
+    font-size: 30px; color: lightcoral;
+}
