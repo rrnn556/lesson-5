@@ -21,3 +21,11 @@
 .text.large {
     color: brown; font-weight: 900;
 }
+
+.list .link {
+    color: rgb(4, 107, 43);
+}
+
+.item .link-new {
+    color: red;
+}
